@@ -1,5 +1,5 @@
 # team-data-exploration
-Paola Hernandez
-Rahima Acosta
-Crystal Chagoya
-Gordon Zhen
+- Paola Hernandez
+- Rahima Acosta
+- Crystal Chagoya
+- Gordon Zhen
